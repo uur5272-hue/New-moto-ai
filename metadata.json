@@ -1,0 +1,6 @@
+{
+  "name": "MOTO AI",
+  "description": "Futuristic AI Assistant with voice, image/video generation, photo editing, and system controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
